@@ -1,0 +1,264 @@
+{
+	"properties": [
+		{
+			"id": 1,
+			"name": "Distinctive Villa for Sale at Le Chaland",
+			"image": "Images/img 1.jpg",
+			"Images": [
+				"Images/img 1.jpg",
+				"Images/img 1.1.jpg",
+				"Images/img 1.2.jpg",
+				"Images/img 1.3.jpg",
+				"Images/img 1.4.jpg"
+			],
+			"link": "#property-details",
+			"details": {
+				"buyOrRent": "Buy",
+				"propertyType": "House / Villa",
+				"region": "Le Chaland",
+				"neighborhood": [
+					"Airport",
+					"Bars",
+					"Beach",
+					"Bustop",
+					"Clubs",
+					"Health and Beauty retreats",
+					"Hotels",
+					"Public beach",
+					"Pubs",
+					"Restaurant",
+					"Spas"
+				],
+				"bedrooms": 4,
+				"bathrooms": 2,
+				"propertySize": "395 m2",
+				"lotSize": "813 m2",
+				"propertyID": "P12/AV/V5/LC/S/178",
+				"features": [
+					"Accessible to Foreigners",
+					"Close to all facilities",
+					"Close to Bustop",
+					"Close to Restaurant",
+					"Close to Shops",
+					"Close to the beach",
+					"Fully Furnished",
+					"Gym",
+					"Laundry",
+					"Pantry",
+					"Parking",
+					"Private Store",
+					"Sea Access",
+					"Store",
+					"Swimming Pool",
+					"Tennis Court",
+					"Terrace",
+					"Yard"
+				],
+				"price": "USD 1,700,000",
+				"additionalDetails": "Approved by the Economic Development Board (EDB) under the Property Development Scheme (PDS)..."
+			}
+		},
+		{
+			"id": 2,
+			"name": "Elegant Villa for Sale at Beau Champ",
+			"image": "Images/img 2.jpg",
+			"Images": [
+				"Images/img 2.jpg",
+				"Images/img 2.1.jpg",
+				"Images/img 2.3.jpg",
+				"Images/img 2.4.jpg",
+				"Images/img 2.5.jpg",
+				"Images/img 2.6.jpg",
+				"Images/img 2.7.jpg",
+				"Images/img 2.8.jpg"
+			],
+			"link": "#property-details",
+			"details": {
+				"buyOrRent": "Buy",
+				"propertyType": "Villa",
+				"region": "Beau Champ",
+				"neighborhood": ["Golf Course", "Beach", "Restaurants"],
+				"bedrooms": 3,
+				"bathrooms": 2,
+				"propertySize": "250 m2",
+				"lotSize": "600 m2",
+				"propertyID": "P12/BC/V3/BH/S/120",
+				"features": ["Swimming Pool", "Terrace", "Close to Golf Course"],
+				"price": "USD 950,000",
+				"additionalDetails": "Luxurious villa near a golf course with state-of-the-art amenities..."
+			}
+		},
+		{
+			"id": 3,
+			"name": "Luxury Villa for Sale at Grand Bay",
+			"image": "Images/img 3.jpg",
+			"Images": [
+				"Images/img 3.jpg",
+				"Images/img 3.1.jpg",
+				"Images/img 3.2.jpg",
+				"Images/img 3.3.jpg",
+				"Images/img 3.4.jpg",
+				"Images/img 3.5.jpg",
+				"Images/img 3.6.jpg"
+			],
+			"link": "#property-details",
+			"details": {
+				"buyOrRent": "Buy",
+				"propertyType": "Villa",
+				"region": "Beau Champ",
+				"neighborhood": ["Golf Course", "Beach", "Restaurants"],
+				"bedrooms": 3,
+				"bathrooms": 2,
+				"propertySize": "250 m2",
+				"lotSize": "600 m2",
+				"propertyID": "P12/BC/V3/BH/S/120",
+				"features": ["Swimming Pool", "Terrace", "Close to Golf Course"],
+				"price": "USD 950,000",
+				"additionalDetails": "Luxurious villa near a golf course with state-of-the-art amenities..."
+			}
+		},
+		{
+			"id": 4,
+			"name": "Modern Apartment at Grand Gaube",
+			"image": "Images/img 4.jpg",
+			"Images": [
+				"Images/img 4.jpg",
+				"Images/img 4.1.jpg",
+				"Images/img 4.2.jpg",
+				"Images/img 4.3.jpg"
+			],
+			"link": "#property-details",
+			"details": {
+				"buyOrRent": "Buy",
+				"propertyType": "House / Villa",
+				"region": "Le Chaland",
+				"neighborhood": [
+					"Airport",
+					"Bars",
+					"Beach",
+					"Bustop",
+					"Clubs",
+					"Health and Beauty retreats",
+					"Hotels",
+					"Public beach",
+					"Pubs",
+					"Restaurant",
+					"Spas"
+				],
+				"bedrooms": 4,
+				"bathrooms": 2,
+				"propertySize": "395 m2",
+				"lotSize": "813 m2",
+				"propertyID": "P12/AV/V5/LC/S/178",
+				"features": [
+					"Accessible to Foreigners",
+					"Close to all facilities",
+					"Close to Bustop",
+					"Close to Restaurant",
+					"Close to Shops",
+					"Close to the beach",
+					"Fully Furnished",
+					"Gym",
+					"Laundry",
+					"Pantry",
+					"Parking",
+					"Private Store",
+					"Sea Access",
+					"Store",
+					"Swimming Pool",
+					"Tennis Court",
+					"Terrace",
+					"Yard"
+				],
+				"price": "USD 1,700,000",
+				"additionalDetails": "Approved by the Economic Development Board (EDB) under the Property Development Scheme (PDS)..."
+			}
+		},
+		{
+			"id": 5,
+			"name": "Luxury Cottage at Black River",
+			"image": "Images/img 5.jpg",
+			"Images": [
+				"Images/img 5.jpg",
+				"Images/img 5.1.jpg",
+				"Images/img 5.2.jpg",
+				"Images/img 5.3.jpg",
+				"Images/img 5.4.jpg",
+				"Images/img 5.5.jpg"
+			],
+			"link": "#property-details",
+			"details": {
+				"buyOrRent": "Buy",
+				"propertyType": "Villa",
+				"region": "Beau Champ",
+				"neighborhood": ["Golf Course", "Beach", "Restaurants"],
+				"bedrooms": 3,
+				"bathrooms": 2,
+				"propertySize": "250 m2",
+				"lotSize": "600 m2",
+				"propertyID": "P12/BC/V3/BH/S/120",
+				"features": ["Swimming Pool", "Terrace", "Close to Golf Course"],
+				"price": "USD 950,000",
+				"additionalDetails": "Luxurious villa near a golf course with state-of-the-art amenities..."
+			}
+		},
+		{
+			"id": 6,
+			"name": "Apartment at Grand Baie La Croisette",
+			"image": "Images/img 6.jpg",
+			"Images": [
+				"Images/img 6.jpg",
+				"Images/img 6.1.jpg",
+				"Images/img 6.2.jpg",
+				"Images/img 6.3.jpg",
+				"Images/img 6.4.jpg"
+			],
+			"link": "#property-details",
+			"details": {
+				"buyOrRent": "Buy",
+				"propertyType": "House / Villa",
+				"region": "Le Chaland",
+				"neighborhood": [
+					"Airport",
+					"Bars",
+					"Beach",
+					"Bustop",
+					"Clubs",
+					"Health and Beauty retreats",
+					"Hotels",
+					"Public beach",
+					"Pubs",
+					"Restaurant",
+					"Spas"
+				],
+				"bedrooms": 4,
+				"bathrooms": 2,
+				"propertySize": "395 m2",
+				"lotSize": "813 m2",
+				"propertyID": "P12/AV/V5/LC/S/178",
+				"features": [
+					"Accessible to Foreigners",
+					"Close to all facilities",
+					"Close to Bustop",
+					"Close to Restaurant",
+					"Close to Shops",
+					"Close to the beach",
+					"Fully Furnished",
+					"Gym",
+					"Laundry",
+					"Pantry",
+					"Parking",
+					"Private Store",
+					"Sea Access",
+					"Store",
+					"Swimming Pool",
+					"Tennis Court",
+					"Terrace",
+					"Yard"
+				],
+				"price": "USD 1,700,000",
+				"additionalDetails": "Approved by the Economic Development Board (EDB) under the Property Development Scheme (PDS)..."
+			}
+		}
+	]
+}

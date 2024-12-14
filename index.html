@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>ArchiStyle Property</title>
+		<link rel="stylesheet" href="style.css" />
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+		/>
+		<link
+			rel="stylesheet"
+			href="https://unpkg.com/swiper/swiper-bundle.min.css"
+		/>
+	</head>
+	<body>
+		<!-- Header -->
+		<header>
+			<div class="logo">
+				<img src="Images/2.png" alt="ArchiStyle Logo" />
+			</div>
+			<nav>
+				<ul>
+					<li><a href="#home" class="active">Home</a></li>
+					<li><a href="#about">About Us</a></li>
+					<li><a href="#property">Property</a></li>
+					<li><a href="#contact">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<!-- Home Section -->
+		<section id="home">
+			<div class="background-overlay">
+				<div class="content">
+					<h1>Welcome to ArchiStyle Property</h1>
+					<p>Your Dream Home Awaits</p>
+				</div>
+			</div>
+		</section>
+
+		<!-- About Section -->
+		<section id="about">
+			<h2>About Us</h2>
+			<div class="about-content">
+				<img src="Images/2.png" alt="ArchiStyle Logo" style="height: 70px" />
+				<!-- Increased size and moved to the side -->
+				<p>
+					Welcome to ArchiStyle, where architectural elegance meets timeless
+					style. Specializing in luxury villas, we bring your dream home to life
+					with unmatched craftsmanship and design expertise. At ArchiStyle, we
+					believe a villa is more than just a residence—it’s a personal
+					sanctuary, a statement of sophistication, and a space tailored to your
+					lifestyle. With a commitment to quality, innovation, and attention to
+					detail, our team ensures every property reflects the perfect harmony
+					of modern living and classic charm. <br />
+					Discover the art of exceptional living with ArchiStyle.
+				</p>
+			</div>
+		</section>
+
+		<!-- Property Section -->
+		<section id="property">
+			<h2>Property Listings</h2>
+			<div class="gallery" id="property-gallery"></div>
+		</section>
+
+		<!-- Property Details Section -->
+		<section id="property-details" style="display: none">
+			<h2>Property Details</h2>
+			<div class="swiper main-swiper">
+				<div id="main-swiper-wrapper" class="swiper-wrapper"></div>
+				<div class="swiper-button-next"></div>
+				<div class="swiper-button-prev"></div>
+			</div>
+			<div class="swiper thumbs-swiper">
+				<div id="thumbs-swiper-wrapper" class="swiper-wrapper"></div>
+			</div>
+			<div class="property-info">
+				
+			</div>
+			<button id="back-to-gallery">Back to Gallery</button>
+		</section>
+
+<!-- Contact Section -->
+<section id="contact">
+	<h2>Contact Us</h2>
+	<div class="contact-container">
+		<div class="contact-details" style="text-align: center; margin-bottom: 20px;">
+			<p>
+				<i class="fas fa-envelope" style="margin-right: 8px;"></i>
+				<a href="mailto:info@archistyle.com">archistyleswipeup@gmail.com</a>
+			</p>
+			<p>
+				<i class="fas fa-phone" style="margin-right: 8px;"></i>
+				<a href="tel:+1234567890">+230 57231769</a>
+			</p>
+		</div>
+		<form id="contact-form">
+			<input type="text" placeholder="Your Name" required />
+			<input type="email" placeholder="Your Email" required />
+			<textarea placeholder="Your Message" required></textarea>
+			<button type="submit">Send Message</button>
+		</form>
+	</div>
+</section>
+
+		<!-- Footer -->
+		<footer>
+			<p>&copy; 2024 ArchiStyle Properties. All rights reserved.</p>
+		</footer>
+
+		<script src="script.js"></script>
+		<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+	</body>
+</html>
